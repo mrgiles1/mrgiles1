@@ -7,7 +7,7 @@ Front End Developer, Designer, Educator
 Currently working on building the skills necessary to become a full-stack developer, I am already able to build beautiful, responsive web pages, and design mock-ups as a web designer and photo editor. My formal education and experience is in language teaching, and as I build my abilities as a developer, I look forward to sharing my knowledge with others in addition to collaborating on exciting development projects.
 
 *   🌍  I'm based in Rome, Italy - San Francisco, California - Montreal, Canada
-*   🖥️  See my portfolio at [I'm working on a new portfolio, but here's one I made a few years back](http://https://mrgiles1.github.io/profile2017/)
+*   🖥️  See my portfolio at [I'm working on a new portfolio, but here's one I made a few years back](https://mrgiles1.github.io/profile2017/)
 *   ✉️  You can contact me at [mrgiles1@gmail.com](mailto:mrgiles1@gmail.com)
 *   🧠  I'm learning Javascript, React, Python
 *   🤝  I'm open to collaborating on private or open-source projects on which I can utilize my current skills and level-up new ones
