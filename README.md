@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer, Designer, Educator
 ---------------------------------------
 
-Currently working on building the skills necessary to become a full-stack developer, I am already able to build beautiful, responsive web pages, and design mock-ups as a web designer and photo editor. My formal education and experience is in language teaching, and as I build my abilities as a developer, I look forward to sharing my knowledge with others in addition to collaborating on exciting development projects.
+Currently working on building the skills necessary to become a true full-stack developer, I am already able to build beautiful, responsive web pages, and design mock-ups as a web designer and photo editor. My formal education and experience is in language teaching, and as I build my abilities as a developer, I look forward to sharing my knowledge with others in addition to collaborating on exciting development projects.
 
 *   🌍  I'm based in Rome, Italy - San Francisco, California - Montreal, Canada
 *   🖥️  See my portfolio at [I'm working on a new portfolio, but here's one I made a few years back](https://mrgiles1.github.io/profile2017/)
