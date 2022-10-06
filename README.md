@@ -9,7 +9,7 @@ Currently working on building the skills necessary to become a true full-stack d
 *   🌍  I'm based in Rome, Italy - San Francisco, California - Montreal, Canada
 *   🖥️  See my portfolio at [I'm working on a new portfolio, but here's one I made a few years back](https://mrgiles1.github.io/profile2017/)
 *   ✉️  You can contact me at [mrgiles1@gmail.com](mailto:mrgiles1@gmail.com)
-*   🧠  I'm learning Javascript, React, Python, C, C++
+*   🧠  I'm learning Javascript, React, Python, C
 *   🤝  I'm open to collaborating on private or open-source projects on which I can utilize my current skills and level-up new ones
 
 ### Skills
