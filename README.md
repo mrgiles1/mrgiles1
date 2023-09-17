@@ -13,9 +13,11 @@ Currently working on building the skills necessary to become a true full-stack d
 *   🤝  I'm open to collaborating on private or open-source projects on which I can utilize my current skills and level-up new ones
 
 ### Projects
+
 Here are a few projects I've created recently, mostly with Javascript.
 * [Star Wars Opening Crawl](https://mrgiles1.github.io/starWarsOpeningCrawl/)
-
+* [Click-Jump Game](https://mrgiles1.github.io/js-jump-game/)
+  
 ### Skills
 
 
