@@ -14,7 +14,8 @@ Currently working on building the skills necessary to become a true full-stack d
 
 ### Projects
 
-Here are a few projects I've created recently, mostly with Javascript.
+Here are a few projects I've created recently, mostly with React & Javascript.
+* [React Robofriends Search](https://mrgiles1.github.io/robofriends/)
 * [JS Star Wars Opening Crawl](https://mrgiles1.github.io/starWarsOpeningCrawl/)
 * [JS Background Generator](https://mrgiles1.github.io/background-generator/)
 * [JS Fish Game](https://mrgiles1.github.io/js-fish-game/)
