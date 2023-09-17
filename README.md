@@ -15,8 +15,9 @@ Currently working on building the skills necessary to become a true full-stack d
 ### Projects
 
 Here are a few projects I've created recently, mostly with Javascript.
-* [Star Wars Opening Crawl](https://mrgiles1.github.io/starWarsOpeningCrawl/)
-* [Click-Jump Game](https://mrgiles1.github.io/js-jump-game/)
+* [JS Star Wars Opening Crawl](https://mrgiles1.github.io/starWarsOpeningCrawl/)
+* [JS Click-Jump Game](https://mrgiles1.github.io/js-jump-game/)
+* [JS Background Generator](https://mrgiles1.github.io/background-generator/)
   
 ### Skills
 
